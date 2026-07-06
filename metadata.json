@@ -1,0 +1,6 @@
+{
+  "name": "StreamFlix Memory",
+  "description": "A Netflix-inspired landing page with photo uploading and local storage gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
